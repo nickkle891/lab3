@@ -4,8 +4,8 @@ using namespace std;
 int main()
 {
     double sum=0;
-    double A=2;
-    while(A <= 69){
+    double A=6;
+    while(A <= 19){
         sum += 1/A;
         A++;
     }
